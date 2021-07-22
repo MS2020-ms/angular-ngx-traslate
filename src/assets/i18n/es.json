@@ -1,0 +1,12 @@
+{
+    "HELLO": "Hola Mundo",
+    "title": "Traduccion demostrativa",
+    "text": "Esto es una sencilla app demo para ngx-translate",
+    "change": "cambiar",
+    "Error": "Lo siento, no encontrado",
+    "demo": {
+        "wellcome": "Bienvenido a",
+        "greeting": "Hola {{name}}, un gusto conocerte.",
+        "goodbye": "Adios <strong>{{name}}</strong>, que tengas un buen dia."
+    }
+}
